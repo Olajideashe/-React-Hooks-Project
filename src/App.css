@@ -30,3 +30,14 @@
   gap: 1rem;
   flex-wrap: wrap;
 }
+.movie-detail {
+  text-align: center;
+  margin-top: 2rem;
+}
+.movie-detail iframe {
+  margin-top: 1rem;
+}
+.movie-card a {
+  text-decoration: none;
+  color: inherit;
+}
